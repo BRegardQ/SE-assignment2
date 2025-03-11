@@ -1,2 +1,1 @@
-print("Hello from FEATURE-2 branch!")
-
+print("Hello from both MAIN and FEATURE-2!")
